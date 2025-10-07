@@ -6,6 +6,7 @@ BASIC
 Clone Repo: git clone "PFAD"
 List of the branches: git branch
 New Branch: git branch "NAME"
-Switch to a certain branch: git switch -c "NAME OF BRANCH"
+Switch to a certain branch while creating it: git switch -c "NAME OF BRANCH"
+Switch to existing branch: git switch "Name"
 
 
