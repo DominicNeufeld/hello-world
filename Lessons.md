@@ -1,12 +1,14 @@
-These are useful tips from Dominic:
+### These are useful tips from Dominic:
 
-[READ ME LINK](README.md)
+##### [READ ME LINK](README.md)
 
-BASIC
-Clone Repo: git clone "PFAD"
-List of the branches: git branch
-New Branch: git branch "NAME"
-Switch to a certain branch while creating it: git switch -c "NAME OF BRANCH"
-Switch to existing branch: git switch "Name"
+
+![GIT IMAGE](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
+#### BASIC
+* Clone Repo: git clone "_PFAD_"  
+* List of the branches: git branch  
+* New Branch: git branch "_NAME_"  
+* Switch to a certain branch while creating it: git switch -c "_NAME OF BRANCH_"  
+* Switch to existing branch: git switch "_Name_"  
 
 
