@@ -16,6 +16,16 @@
 * git clone https://link/Repo
 * cd "_Project_Name"
 * git switch -c "_Name of Branch" (Create a Branch)
-* 
+* git status
+* (File Erstellen)
+* git add _Datei_
+* git commit -m "_Nachricht Info_"
+* git push origin "_Branch Name_"
+
+
+#### Other Useful
+* ls
+* pwd
+
 
 
