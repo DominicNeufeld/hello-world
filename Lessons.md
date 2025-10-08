@@ -9,6 +9,13 @@
 * List of the branches: git branch  
 * New Branch: git branch "_NAME_"  
 * Switch to a certain branch while creating it: git switch -c "_NAME OF BRANCH_"  
-* Switch to existing branch: git switch "_Name_"  
+* Switch to existing branch: git switch "_Name_"
+
+
+#### HOW TO GET REPO EDIT AND COMMIT BACK
+* git clone https://link/Repo
+* cd "_Project_Name"
+* git switch -c "_Name of Branch" (Create a Branch)
+* 
 
 
